@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	margin:0 auto;
+	width:90%;
+
+}
+.main{
+	margin:10px 0;
+	overflow: hidden;
+}
+.logo{
+	height: 90px;
+	width: 15%;
+    background:#636e72;
+	float: left;
+}
+.navigation{
+	height:90px;
+	width: 82%;
+	background:#636e72;
+	float:right;
+}
+.year{
+   display: flex;
+   justify-content: space-between;
+   margin:10px 0;
+}
+.month{
+	height: 130px;
+    width:23%;
+    background-color:#636e72; 
+}
+.box{
+	display: flex;
+	justify-content: space-between;
+	margin: 10px 0;
+	}
+.name{
+	height:250px;
+	width: 33%;
+	background:#636e72;
+	
+}
+.footer{
+	height:60px;
+	background:#636e72;
+
+}
